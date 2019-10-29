@@ -1,0 +1,13 @@
+{
+    "name": "jdhawk/jdhawk",
+    "description": "Reservation of the jdhawk namespace",
+    "type": "library",
+    "license": "Apache 2.0",
+    "authors": [
+        {
+            "name": "Dustin Hawkins",
+            "email": "jdhawk@dh0.net"
+        }
+    ],
+    "require": {}
+}
